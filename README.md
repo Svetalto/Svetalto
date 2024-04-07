@@ -12,6 +12,5 @@
 - 🤔 I am looking for help with employment in this area
 - 💬 Ask me about software testing
 - 📫 How to reach me: svetlana.n.konovalova@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: making the journey from musician to tester))))
   
