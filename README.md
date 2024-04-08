@@ -7,7 +7,7 @@ QA engineer
 Еducation: Нigher musical education, orchestra artist, viola specialty.
 Additional education: Online school "Hexlet", specialty "QA engineer".
 HardSkills: MySQL, HTML, CSS, JS, DevTools, software testing, regression testing, fixing bugs, writing test cases.
-SoftSkills: I can work under deadlines, stress resistance, responsibility, I like to work in a team, I like to study and learn something new
+SoftSkills: I can work under deadlines, stress resistance, responsibility, I like to work in a team, I like to study and learn something new.
 At the moment I wrote a project as part of my studies at the Hexlet online school. The name of the project is "Testing an online store." In this project I learned how to write test cases, fix bugs, and conduct regression testing. Another project awaits me in the near future. The IT field is very interesting for me, I like to discover something new every day and improve the skills I have already acquired. I hope that I will make a great contribution to the field of testing and will be useful to the company I work for.
 
 *   🌍  I'm based in Russia
